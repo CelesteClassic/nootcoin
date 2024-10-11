@@ -1,0 +1,4 @@
+colorama
+discord.py
+aiosqlite
+numpy

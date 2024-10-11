@@ -1,0 +1,608 @@
+[
+  {
+    "name": "Red Heart",
+    "file": "heartred.png",
+    "rarity": "common",
+    "description": "A Crystal Heart given to worthy mountaineers."
+  },
+  {
+    "name": "Banana",
+    "file": "banana.png",
+    "rarity": "common",
+    "description": "A funky snack. Ooh, banana."
+  },
+  {
+    "name": "Beta",
+    "file": "beta.png",
+    "rarity": "common",
+    "description": "Inferior to alpha fish."
+  },
+  {
+    "name": "Carp",
+    "file": "carp.png",
+    "rarity": "common",
+    "description": "Seize the day."
+  },
+  {
+    "name": "Treasure Chest",
+    "file": "chest.png",
+    "rarity": "common",
+    "description": "I wonder what's inside?"
+  },
+  {
+    "name": "Crumble",
+    "file": "crumble.png",
+    "rarity": "common",
+    "description": "You accidentally touched it."
+  },
+  {
+    "name": "Dash Crystal",
+    "file": "dashcrystal.png",
+    "rarity": "common",
+    "description": "An environmentally friendly version of balloons."
+  },
+  {
+    "name": "Gem",
+    "file": "gem.png",
+    "rarity": "common",
+    "description": "The treasure of Mt. Celeste. A gift from the tree gods."
+  },
+  {
+    "name": "Mini Mola",
+    "file": "minimola.png",
+    "rarity": "common",
+    "description": "A little big bony fish."
+  },
+  {
+    "name": "Pacu",
+    "file": "pacu.png",
+    "rarity": "common",
+    "description": "It bites you, too!"
+  },
+  {
+    "name": "Puffer",
+    "file": "puffer.png",
+    "rarity": "common",
+    "description": "Helps control asthma."
+  },
+  {
+    "name": "Seahorse",
+    "file": "seahorse.png",
+    "rarity": "common",
+    "description": "Worth 3 sea-material."
+  },
+  {
+    "name": "Shrimp",
+    "file": "shrimp.png",
+    "rarity": "common",
+    "description": "One in a krillion."
+  },
+  {
+    "name": "Spikes",
+    "file": "spikes.png",
+    "rarity": "common",
+    "description": "It has a deceptively small hitbox."
+  },
+  {
+    "name": "Berry",
+    "file": "strawberry.png",
+    "rarity": "common",
+    "description": "The flightless variant of a common flying fruit."
+  },
+  {
+    "name": "Terrain",
+    "file": "terrain.png",
+    "rarity": "common",
+    "description": "It can't be clipped into."
+  },
+  {
+    "name": "Urchin",
+    "file": "urchin.png",
+    "rarity": "common",
+    "description": "What about my chin?"
+  },
+  {
+    "name": "Whitefish",
+    "file": "whitefish.png",
+    "rarity": "common",
+    "description": "Simultaneously is and isn't albino."
+  },
+  {
+    "name": "Memorial Piece",
+    "file": "memorial.png",
+    "rarity": "common",
+    "description": "A chunk of an old stone tablet. The writing is illegible."
+  },
+  {
+    "name": "Crab",
+    "file": "crab.png",
+    "rarity": "common",
+    "description": "It's a bit crabby after being caught."
+  },
+  {
+    "name": "Clownfish",
+    "file": "clownfish.png",
+    "rarity": "common",
+    "description": "You found him!"
+  },
+  {
+    "name": "Tang",
+    "file": "tang.png",
+    "rarity": "common",
+    "description": "Just keep swimming~"
+  },
+  {
+    "name": "Reddish",
+    "file": "radish.png",
+    "rarity": "common",
+    "description": "A variant of the common radish that grows on a red mountain."
+  },
+  {
+    "name": "Scallop",
+    "file": "scallop.png",
+    "rarity": "common",
+    "description": "Native to Mt. Shelleste."
+  },
+  {
+    "name": "Guppy",
+    "file": "guppy.png",
+    "rarity": "common",
+    "description": "Like a fish but guppier."
+  },
+  {
+    "name": "Starfish",
+    "file": "starfish.png",
+    "rarity": "common",
+    "description": "Leedle leedle leedle lee."
+  },
+  {
+    "name": "Flying Fish",
+    "file": "flyingfish.png",
+    "rarity": "common",
+    "description": "It does it in runs."
+  },
+  {
+    "name": "Arowana",
+    "file": "arowana.png",
+    "rarity": "common",
+    "description": "Time flies like an arowana, fruit flies like a bananana."
+  },
+  {
+    "name": "Lunar Heart",
+    "file": "heartlunar.png",
+    "rarity": "legendary",
+    "description": "A Crystal Heart given to an adventurer who ascended to the heavens."
+  },
+  {
+    "name": "Heart Key",
+    "file": "heartkey.png",
+    "rarity": "legendary",
+    "description": "You're not sure what this is for. Maybe you'll find out next year."
+  },
+  {
+    "name": "Bird With A Gun",
+    "file": "bwag.png",
+    "rarity": "legendary",
+    "description": "When a bird craves fast food."
+  },
+  {
+    "name": "Fish",
+    "file": "fishtralis.png",
+    "rarity": "legendary",
+    "description": "Fish."
+  },
+  {
+    "name": "Noel",
+    "file": "noel.png",
+    "rarity": "legendary",
+    "description": "The creator of strawberries IRL."
+  },
+  {
+    "name": "Roundefish",
+    "file": "roundefish.png",
+    "rarity": "legendary",
+    "description": "It means \"Bruh\"."
+  },
+  {
+    "name": "Maddy",
+    "file": "maddy.png",
+    "rarity": "legendary",
+    "description": "Can double-jump IRL."
+  },
+  {
+    "name": "1-UP",
+    "file": "1up.png",
+    "rarity": "legendary",
+    "description": "You make my life 1UP (Mō ikkai dake torai)"
+  },
+  {
+    "name": "Blahaj",
+    "file": "blahaj.png",
+    "rarity": "legendary",
+    "description": "It's not like it wanted to get caught or anything— baka!"
+  },
+  {
+    "name": "Golden Heart",
+    "file": "heartgold.png",
+    "rarity": "rare",
+    "description": "A Crystal Heart given to truly accomplished climbers."
+  },
+  {
+    "name": "Golden Mola",
+    "file": "goldmola.png",
+    "rarity": "rare",
+    "description": "A sunny sunfish."
+  },
+  {
+    "name": "Egg",
+    "file": "egg.png",
+    "rarity": "rare",
+    "description": "Hey, that's not yours!"
+  },
+  {
+    "name": "Artifact",
+    "file": "artifact.png",
+    "rarity": "rare",
+    "description": "An artifact of a bygone era, purpose unknown."
+  },
+  {
+    "name": "Flish",
+    "file": "flish.png",
+    "rarity": "rare",
+    "description": "The pistil is actually its eye."
+  },
+  {
+    "name": "Mimic",
+    "file": "mimic.png",
+    "rarity": "rare",
+    "description": "It attracts greedy prey and then chomps down."
+  },
+  {
+    "name": "Platfish",
+    "file": "platfish.png",
+    "rarity": "rare",
+    "description": "What...?"
+  },
+  {
+    "name": "Smoke Particle",
+    "file": "smoke.png",
+    "rarity": "rare",
+    "description": "It disappeared as soon as you hooked it."
+  },
+  {
+    "name": "Rem",
+    "file": "rem.png",
+    "rarity": "rare",
+    "description": "A single subpixel."
+  },
+  {
+    "name": "Map Data",
+    "file": "mapdata.png",
+    "rarity": "rare",
+    "description": "0x1000..0x1fff"
+  },
+  {
+    "name": "Tier List",
+    "file": "tierlist.png",
+    "rarity": "rare",
+    "description": "Terra Australis is commonly seen atop these."
+  },
+  {
+    "name": "Corner Spike",
+    "file": "cornerspike.png",
+    "rarity": "rare",
+    "description": "An unholy abomination. We tried to bury it, but time exposes all wounds."
+  },
+  {
+    "name": "Miniline",
+    "file": "miniline.png",
+    "rarity": "rare",
+    "description": "Aww, it's a teeny tiny Madeline! Hiiiii :3"
+  },
+  {
+    "name": "Diamond",
+    "file": "diamond.png",
+    "rarity": "rare",
+    "description": "Can be crafted into tools, armor, or a... jukebox?"
+  },
+  {
+    "name": "Lord Eel",
+    "file": "lordeel.png",
+    "rarity": "rare",
+    "description": "Oh no lol sea bruh."
+  },
+  {
+    "name": "Lost Scroll",
+    "file": "lostscroll.png",
+    "rarity": "rare",
+    "description": "An ancient flowchart for classifying whether a game is good."
+  },
+  {
+    "name": "Blue Heart",
+    "file": "heartblue.png",
+    "rarity": "uncommon",
+    "description": "A Crystal Heart given to fearless explorers."
+  },
+  {
+    "name": "Anglerfish",
+    "file": "angler.png",
+    "rarity": "uncommon",
+    "description": "Native to a bramble-filled planet, these fish feed on unlucky explorers."
+  },
+  {
+    "name": "Goldfish",
+    "file": "goldfish.png",
+    "rarity": "uncommon",
+    "description": "The snack that smiles back!"
+  },
+  {
+    "name": "Antarctic Gem",
+    "file": "antarcticgem.png",
+    "rarity": "uncommon",
+    "description": "Emits a magical energy that can't be harnessed by humans."
+  },
+  {
+    "name": "Bonefin",
+    "file": "bonefin.png",
+    "rarity": "uncommon",
+    "description": "Ruled an entire galaxy, long ago."
+  },
+  {
+    "name": "Crumble Fish",
+    "file": "crumblefish.png",
+    "rarity": "uncommon",
+    "description": "It uses its crumbled shell to defend itself."
+  },
+  {
+    "name": "Desert Gem",
+    "file": "desertgem.png",
+    "rarity": "uncommon",
+    "description": "An ancient treasure, laid dormant in a pyramid for millennia."
+  },
+  {
+    "name": "Ice Berry",
+    "file": "iceberry.png",
+    "rarity": "uncommon",
+    "description": "Someone put this berry in the freezer. Makeshift popcicle?"
+  },
+  {
+    "name": "Jellyfish",
+    "file": "jellyfish.png",
+    "rarity": "uncommon",
+    "description": "Not to be confused with the Jelly Fish, which eats fruit concentrate."
+  },
+  {
+    "name": "Key",
+    "file": "key.png",
+    "rarity": "uncommon",
+    "description": "You do not understand the deeper intricacies."
+  },
+  {
+    "name": "Mola Mola",
+    "file": "molamola.png",
+    "rarity": "uncommon",
+    "description": "生きろ！マンボウ！"
+  },
+  {
+    "name": "Spikeback",
+    "file": "spikeback.png",
+    "rarity": "uncommon",
+    "description": "But spike???"
+  },
+  {
+    "name": "Blobfish",
+    "file": "blobfish.png",
+    "rarity": "uncommon",
+    "description": "A fish-shaped blob-shaped fish."
+  },
+  {
+    "name": "Crap",
+    "file": "crap.png",
+    "rarity": "uncommon",
+    "description": "A common mispelling."
+  },
+  {
+    "name": "Keyfish",
+    "file": "keyfish.png",
+    "rarity": "uncommon",
+    "description": "Native to Egyptian rivers, legend says they protected the pyramids of old."
+  },
+  {
+    "name": "Tuna",
+    "file": "tuna.png",
+    "rarity": "uncommon",
+    "description": "This one has a minor scale."
+  },
+  {
+    "name": "Bass",
+    "file": "bass.png",
+    "rarity": "uncommon",
+    "description": "I'm all about that."
+  },
+  {
+    "name": "Fico-8",
+    "file": "fico8.png",
+    "rarity": "uncommon",
+    "description": "Can only fit 8 tokens."
+  },
+  {
+    "name": "Manta Ray",
+    "file": "mantaray.png",
+    "rarity": "uncommon",
+    "description": "A firm believer in the manta mantra."
+  },
+  {
+    "name": "Celeste",
+    "file": "celeste.png",
+    "rarity": "mythic",
+    "description": "A PICO-8 platformer about climbing a mountain, made in four days. Use the arrow keys, X, and C."
+  },
+  {
+    "name": "Amogus",
+    "file": "amogus.png",
+    "rarity": "legendary",
+    "description": "A perfectly trustworthy crewmate who's just trying to get some tasks done."
+  },
+  {
+    "name": "Award",
+    "file": "award.png",
+    "rarity": "legendary",
+    "description": "A lost CC award with an unreadable recipient name."
+  },
+  {
+    "name": "Big Chest",
+    "file": "bigchest.png",
+    "rarity": "rare",
+    "description": "I like big chests and I cannot lie."
+  },
+  {
+    "name": "Fireball",
+    "file": "fireball.png",
+    "rarity": "uncommon",
+    "description": "Oh hey, a- OW OW OW OW."
+  },
+  {
+    "name": "Flag",
+    "file": "flag.png",
+    "rarity": "rare",
+    "description": "All sense of time stops when you touch this."
+  },
+  {
+    "name": "Goat",
+    "file": "goat.png",
+    "rarity": "rare",
+    "description": "The goat of all time."
+  },
+  {
+    "name": "Ice",
+    "file": "ice.png",
+    "rarity": "common",
+    "description": "A block of packed ice with minor smoke-absorbing properties."
+  },
+  {
+    "name": "Mango",
+    "file": "mango.png",
+    "rarity": "rare",
+    "description": "A juicy stone fruit."
+  },
+  {
+    "name": "Moon Berry",
+    "file": "moonberry.png",
+    "rarity": "legendary",
+    "description": "W O W."
+  },
+  {
+    "name": "Ruby",
+    "file": "ruby.png",
+    "rarity": "rare",
+    "description": "A rare gemstone known to oscillate at banger frequencies."
+  },
+  {
+    "name": "Snow Fish",
+    "file": "snowfish.png",
+    "rarity": "uncommon",
+    "description": "It swims under the ice in the frozen rivers of Mt. Celeste."
+  },
+  {
+    "name": "TNT",
+    "file": "tnt.png",
+    "rarity": "uncommon",
+    "description": "An explosive that's popular amongst jugglers."
+  },
+  {
+    "name": "Tomato",
+    "file": "tomato.png",
+    "rarity": "rare",
+    "description": "I am one."
+  },
+  {
+    "name": "Tree",
+    "file": "tree.png",
+    "rarity": "uncommon",
+    "description": "Some herald them as gods."
+  },
+  {
+    "name": "Talking Flower",
+    "file": "yap.png",
+    "rarity": "rare",
+    "description": "Heya! Quite the climb, huh? Wish I could go fishing..."
+  },
+  {
+    "name": "Storage Cube",
+    "file": "cube.png",
+    "rarity": "uncommon",
+    "description": "A large heavy storage cube that has no feelings for you."
+  },
+  {
+    "name": "Berry Block Fish",
+    "file": "fakewallfish.png",
+    "rarity": "uncommon",
+    "description": "Guards a berry but is highly aversive to dash_effect_time."
+  },
+  {
+    "name": "Glyph",
+    "file": "glyph.png",
+    "rarity": "rare",
+    "description": "A stone containing text in an ancient language."
+  },
+  {
+    "name": "Ice Fish",
+    "file": "icefish.png",
+    "rarity": "uncommon",
+    "description": "A slippery fish that feeds on densely packed ice."
+  },
+  {
+    "name": "Lani",
+    "file": "lani.png",
+    "rarity": "legendary",
+    "description": "A mysterious climber who treks with a grappling hook."
+  },
+  {
+    "name": "Target",
+    "file": "target.png",
+    "rarity": "rare",
+    "description": "A retail giant's logo which you must break at all costs."
+  },
+  {
+    "name": "Turret",
+    "file": "turret.png",
+    "rarity": "rare",
+    "description": "Aperture Science technology with questionable aim."
+  },
+  {
+    "name": "Wooden Crate",
+    "file": "crate.png",
+    "rarity": "common",
+    "description": "It's full of fish food."
+  },
+  {
+    "name": "Great Berry",
+    "file": "greatberry.png",
+    "rarity": "legendary",
+    "description": "The result if jumpy dashy people abstained from collecting them."
+  },
+  {
+    "name": "Lemon",
+    "file": "lemon.png",
+    "rarity": "uncommon",
+    "description": "Commonly used as ammunition in maverick hunting."
+  },
+  {
+    "name": "Old Photo",
+    "file": "photo.png",
+    "rarity": "rare",
+    "description": "It's so washed out, you can't understand the joke."
+  },
+  {
+    "name": "Pride Fish",
+    "file": "pridefish.png",
+    "rarity": "rare",
+    "description": "A very inclusive fish."
+  },
+  {
+    "name": "Airline Food",
+    "file": "airlinefood.png",
+    "rarity": "legendary",
+    "description": "To date, its deal remains unknown."
+  }
+]
